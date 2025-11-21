@@ -1,9 +1,8 @@
 namespace barometric {
     /**
      * Beregner barometrisk høyde basert på trykk og temperatur.
-     * Standardverdier tilsvarer ISA (International Standard Atmosphere) ved havnivå.
      */
-    //% block="barometrisk høyde (m) for p $p (Pa), p1 $p1 (Pa), T1 $T1 (K), a $a (K/m), h1 $h1 (m), R $R (J/(kg·K)), g0 $g0 (m/s²)"
+    //% block="barometrisk høyde (m) for\n p $p (Pa),\n p1 $p1 (Pa),\n T1 $T1 (K),\n a $a (K/m),\n h1 $h1 (m),\n R $R (J/(kg·K)),\n g0 $g0 (m/s²)"
     //% blockSetVariable="h"
     //% group="Barometrisk formel"
     //% weight=100
