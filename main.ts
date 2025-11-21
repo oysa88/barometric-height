@@ -2,7 +2,7 @@ namespace barometric {
     /**
      * Beregner barometrisk høyde basert på trykk og temperatur.
      */
-    //% block="barometrisk høyde (m) for|p $p (Pa)|p1 $p1 (Pa)|T1 $T1 (K)|a $a (K/m)|h1 $h1 (m)|R $R (J/(kg·K))|g0 $g0 (m/s²)"
+    //% block="barometrisk høyde (m) for|p: $p (Pa)|p1: $p1 (Pa)|T1: $T1 (K)|a: $a (K/m)|h1: $h1 (m)|R: $R (J/(kg·K))|g0: $g0 (m/s²)"
     //% blockSetVariable="h"
     //% group="Barometrisk formel"
     //% weight=100
