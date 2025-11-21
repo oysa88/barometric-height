@@ -1,4 +1,4 @@
-namespace barometric {
+namespace høydeberegning {
     /**
      * Beregner barometrisk høyde basert på trykk og temperatur.
      */
