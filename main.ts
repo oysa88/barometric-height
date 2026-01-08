@@ -8,9 +8,9 @@ namespace høydeberegning {
     //% weight=100
     //% p.defl=101325 p1.defl=101325 T1.defl=288 a.defl=0.0065 h1.defl=0 R.defl=287 g0.defl=9.81
     export function barometricHeight(
-        p: number = 101325,
-        p1: number = 101325,
-        T1: number = 288,
+        p: number = 99600,
+        p1: number = 99600,
+        T1: number = 295,
         a: number = 0.0065,
         h1: number = 0,
         R: number = 287,
